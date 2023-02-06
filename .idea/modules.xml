@@ -6,7 +6,10 @@
       <module fileurl="file://$PROJECT_DIR$/Module 01 - Introduction/Module 01 - Introduction.iml" filepath="$PROJECT_DIR$/Module 01 - Introduction/Module 01 - Introduction.iml" />
       <module fileurl="file://$PROJECT_DIR$/Module 02 - Concepts/Module 02 - Concepts.iml" filepath="$PROJECT_DIR$/Module 02 - Concepts/Module 02 - Concepts.iml" />
       <module fileurl="file://$PROJECT_DIR$/Module 03 - Conditional Structure/Module 03 - Conditional Structure.iml" filepath="$PROJECT_DIR$/Module 03 - Conditional Structure/Module 03 - Conditional Structure.iml" />
+      <module fileurl="file://$PROJECT_DIR$/Module 04 - Repetitive Structure/Module 04 - Repetitive Structure.iml" filepath="$PROJECT_DIR$/Module 04 - Repetitive Structure/Module 04 - Repetitive Structure.iml" />
       <module fileurl="file://$PROJECT_DIR$/Exercises/ex001/ex001.iml" filepath="$PROJECT_DIR$/Exercises/ex001/ex001.iml" />
+      <module fileurl="file://$PROJECT_DIR$/Exercises/ex002/ex002.iml" filepath="$PROJECT_DIR$/Exercises/ex002/ex002.iml" />
+      <module fileurl="file://$PROJECT_DIR$/Exercises/ex003/ex003.iml" filepath="$PROJECT_DIR$/Exercises/ex003/ex003.iml" />
     </modules>
   </component>
 </project>
