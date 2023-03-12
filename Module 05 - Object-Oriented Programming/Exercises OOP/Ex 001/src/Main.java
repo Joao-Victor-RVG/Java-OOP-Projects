@@ -17,34 +17,27 @@ public class Main {
         Locale.setDefault(Locale.US);
         Scanner sc = new Scanner(System.in);
 
-        Employee employee = new Employee();
+        Employee emp = new Employee();
 
         System.out.println("Whats your name? ");
-        employee.name = sc.nextLine();
+        emp.name = sc.nextLine();
 
         System.out.println("Whats your Gross Salary?");
-        employee.grossSalary = sc.nextDouble();
+        emp.grossSalary = sc.nextDouble();
 
         System.out.println("Whats the tax?");
-        employee.tax = sc.nextDouble();
+        emp.tax = sc.nextDouble();
 
+        System.out.println();
+        System.out.println("Employee " + emp);
+        System.out.println();
+        System.out.print("Which percentage to increase salary? ");
+        double percentage = sc.nextDouble();
+        emp.increaseSalary(percentage);
 
-
-
-
-
-
-
-
-
-
-
-
+        System.out.println();
+        System.out.println("Update data: " + emp);
 
         sc.close();
-
-
-
-
     }
 }
