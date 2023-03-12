@@ -2,11 +2,20 @@
 <project version="4">
   <component name="ProjectModuleManager">
     <modules>
+      <module fileurl="file://$PROJECT_DIR$/Module 05 - Object-Oriented Programming/Class 001 OOP/Class 001 OOP.iml" filepath="$PROJECT_DIR$/Module 05 - Object-Oriented Programming/Class 001 OOP/Class 001 OOP.iml" />
+      <module fileurl="file://$PROJECT_DIR$/Module 05 - Object-Oriented Programming/Class 002 OOP/Class 002 OOP.iml" filepath="$PROJECT_DIR$/Module 05 - Object-Oriented Programming/Class 002 OOP/Class 002 OOP.iml" />
+      <module fileurl="file://$PROJECT_DIR$/Module 05 - Object-Oriented Programming/Exercises OOP/Ex 001/Ex 001.iml" filepath="$PROJECT_DIR$/Module 05 - Object-Oriented Programming/Exercises OOP/Ex 001/Ex 001.iml" />
+      <module fileurl="file://$PROJECT_DIR$/Module 05 - Object-Oriented Programming/Class 001 OOP/Example 001/Example 001.iml" filepath="$PROJECT_DIR$/Module 05 - Object-Oriented Programming/Class 001 OOP/Example 001/Example 001.iml" />
+      <module fileurl="file://$PROJECT_DIR$/Module 05 - Object-Oriented Programming/Class 001 OOP/Example 002/Example 002.iml" filepath="$PROJECT_DIR$/Module 05 - Object-Oriented Programming/Class 001 OOP/Example 002/Example 002.iml" />
+      <module fileurl="file://$PROJECT_DIR$/Module 05 - Object-Oriented Programming/Class 001 OOP/Example 003/Example 003.iml" filepath="$PROJECT_DIR$/Module 05 - Object-Oriented Programming/Class 001 OOP/Example 003/Example 003.iml" />
+      <module fileurl="file://$PROJECT_DIR$/Module 05 - Object-Oriented Programming/Class 002 OOP/Example 01/Example 01.iml" filepath="$PROJECT_DIR$/Module 05 - Object-Oriented Programming/Class 002 OOP/Example 01/Example 01.iml" />
+      <module fileurl="file://$PROJECT_DIR$/Module 05 - Object-Oriented Programming/Exercises OOP/Exercises OOP.iml" filepath="$PROJECT_DIR$/Module 05 - Object-Oriented Programming/Exercises OOP/Exercises OOP.iml" />
       <module fileurl="file://$PROJECT_DIR$/.idea/Java-OOP-Projects.iml" filepath="$PROJECT_DIR$/.idea/Java-OOP-Projects.iml" />
       <module fileurl="file://$PROJECT_DIR$/Module 01 - Introduction/Module 01 - Introduction.iml" filepath="$PROJECT_DIR$/Module 01 - Introduction/Module 01 - Introduction.iml" />
       <module fileurl="file://$PROJECT_DIR$/Module 02 - Concepts/Module 02 - Concepts.iml" filepath="$PROJECT_DIR$/Module 02 - Concepts/Module 02 - Concepts.iml" />
       <module fileurl="file://$PROJECT_DIR$/Module 03 - Conditional Structure/Module 03 - Conditional Structure.iml" filepath="$PROJECT_DIR$/Module 03 - Conditional Structure/Module 03 - Conditional Structure.iml" />
       <module fileurl="file://$PROJECT_DIR$/Module 04 - Repetitive Structure/Module 04 - Repetitive Structure.iml" filepath="$PROJECT_DIR$/Module 04 - Repetitive Structure/Module 04 - Repetitive Structure.iml" />
+      <module fileurl="file://$PROJECT_DIR$/Module 05 - Object-Oriented Programming/Module 05 - Object-Oriented Programming.iml" filepath="$PROJECT_DIR$/Module 05 - Object-Oriented Programming/Module 05 - Object-Oriented Programming.iml" />
       <module fileurl="file://$PROJECT_DIR$/Exercises/ex001/ex001.iml" filepath="$PROJECT_DIR$/Exercises/ex001/ex001.iml" />
       <module fileurl="file://$PROJECT_DIR$/Exercises/ex002/ex002.iml" filepath="$PROJECT_DIR$/Exercises/ex002/ex002.iml" />
       <module fileurl="file://$PROJECT_DIR$/Exercises/ex003/ex003.iml" filepath="$PROJECT_DIR$/Exercises/ex003/ex003.iml" />

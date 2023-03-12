@@ -66,21 +66,21 @@ public class Main {
 
 // Example 3 /2:
 
-public class Main {
-    public static void main(String[] args) {
-
-        System.out.println("Quantas Horas?");
-        hora = sc.nextInt();
-
-        if (hora < 12) {
-            System.out.println("Boa Tarde!");
-        }
-        else if (hora < 18) {
-            System.out.println("Boa tarde!");
-        }
-        else {
-                System.out.println("Boa Noite!");
-            }
-        sc.close();
-    }
-}
+//public class Main {
+//    public static void main(String[] args) {
+//
+//        System.out.println("Quantas Horas?");
+//        hora = sc.nextInt();
+//
+//        if (hora < 12) {
+//            System.out.println("Boa Tarde!");
+//        }
+//        else if (hora < 18) {
+//            System.out.println("Boa tarde!");
+//        }
+//        else {
+//                System.out.println("Boa Noite!");
+//            }
+//        sc.close();
+//    }
+//}
